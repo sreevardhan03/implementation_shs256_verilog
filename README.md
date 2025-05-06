@@ -1,6 +1,5 @@
 # implementation_shs256_verilog
-Implementation of SHA-256 algorithm on FPGA
-Abstract
+
 This project presents the design and implementation of a high-performance Cryptographic 
 Processor utilizing the SHA-256 algorithm, developed on a Xilinx Artix 7 DDR4 Field 
 Programmable Gate Array (FPGA) using Verilog within the Xilinx Vivado environment. 
